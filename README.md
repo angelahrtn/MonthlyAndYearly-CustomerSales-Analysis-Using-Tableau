@@ -1,4 +1,4 @@
-# MonthlyAndYearly-CustomerSales-Analysis-Using-Tableau
+# MonthlyAndYearly-CustomerSales-Analysis
 # Project Overview
 This project involves the analysis and visualization of customer sales data across the United States. The goal is to identify patterns and trends in customer behavior by analyzing various factors, including revenue distribution by state, age, gender, product categories, and the impact of discount percentages on the quantity ordered. Using Tableau for visualization, this project provides insights into how these variables influence sales performance across different regions and customer demographics.
 
